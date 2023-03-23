@@ -1,3 +1,4 @@
+// Test
 const net = new brain.NeuralNetwork();
 
 net.train(trainingData)
