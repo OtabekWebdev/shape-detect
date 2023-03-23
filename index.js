@@ -12,6 +12,7 @@ for (let i = 0; i < 10; i++) {
     }
 }
 
+
 let m_down = false
 draw_area.addEventListener('mousedown', () => { m_down = true })
 window.addEventListener('mouseup', () => { m_down = false })
