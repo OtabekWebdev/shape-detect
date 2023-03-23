@@ -27,7 +27,7 @@ px.forEach(e => {
                 if (i.mark) {
                     a[px.indexOf(e)] = 1
                 } else {
-                    a[px.indexOf(i)] = 0
+                    a[px.indexOf(i)] = 0 
                 }
             });
             // const r = net.run(a)
